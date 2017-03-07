@@ -23,4 +23,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2016-2017 DesignChowk LLC. Code released under the [MIT](https://github.com/ammar512/mit_uniforms/LICENSE) license.
+Copyright 2016-2017 DesignChowk. Code released under the [MIT](https://github.com/ammar512/mit_uniforms/LICENSE) license.
